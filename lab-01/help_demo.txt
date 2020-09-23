@@ -1,0 +1,5 @@
+example(mean)
+help.start()
+find("plot")
+demo(graphics)
+
