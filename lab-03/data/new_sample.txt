@@ -1,0 +1,4 @@
+"name"	"age"	"gender"	"elective"	"company"	"interests"
+"Kedar Shenoy"	20	" M"	" Information Security"	" Oracle"	"Machine Learning"
+"Kratharth Hegde"	21	" M"	" Number Theory"	" Qualcomm"	"Block Chain"
+"Kusuma Nerella"	21	" F"	" Operations"	" Goldman Sachs"	"Virtual Reality"
